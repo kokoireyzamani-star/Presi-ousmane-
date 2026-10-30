@@ -1,0 +1,6 @@
+{
+  "name": "Kalandirye Zarma",
+  "description": "Calendrier traditionnel, lunaire et grégorien Zarma (Djerma) avec les saisons agro-écologiques du Niger, les heures du jour, les jours de marché et les fêtes culturelles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
